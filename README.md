@@ -32,10 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/e0/e8/c2/e0e8c29155a733cdb0bf1dde7452f751.gif"  />
-</div>
-
-###
