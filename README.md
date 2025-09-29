@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e0/e8/c2/e0e8c29155a733cdb0bf1dde7452f751.gif"  />
+  <img height="200" src="https://i.pinimg.com/736x/4b/fb/07/4bfb07a77cd6c5fb823c38bcd67f2ed5.jpg"  />
 </div>
 
 ###
