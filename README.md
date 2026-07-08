@@ -41,7 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
-
-###
-
-<img src="github-metrics.svg" alt="Recently used languages" />
