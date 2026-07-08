@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: GiuseppeCastro
+          commits_authoring: giuseppecastro, peppepretto@gmail.com, giuseppe pretto
           base: ""
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
