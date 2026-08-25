@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1.jpg" alt="Banner com vista das pirâmides sob a lua crescente" width="100%" />
+</p>
+
 <h2 align="left">Tech's</h2>
 
 ###
